@@ -21,3 +21,5 @@ https://forms.gle/EgsYKHHfDio7me297
 
 👉Telegram 畅所欲言群
 https://t.me/joinchat/
+
+👉群规请参阅：https://github.com/nzitjob/wechat
