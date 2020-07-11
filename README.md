@@ -17,7 +17,7 @@ https://forms.gle/EgsYKHHfDio7me297
 
 👉关注公众号新西兰IT内推圈‘nzitjob‘
 
-👉加入Meetup:http://meetu.ps/c/48mnP/vgvHZ/a
+👉加入Meetup: http://meetu.ps/c/48mnP/vgvHZ/a
 
 👉Telegram 畅所欲言群
 https://t.me/joinchat/
