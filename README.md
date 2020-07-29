@@ -19,7 +19,6 @@ https://forms.gle/EgsYKHHfDio7me297
 
 👉加入Meetup: http://meetu.ps/c/48mnP/vgvHZ/a
 
-👉Telegram 畅所欲言群
-https://t.me/joinchat/
+👉Telegram 畅所欲言群: https://t.me/joinchat/JWwGgRe7WBa1u0ynlqqPhw
 
 👉群规请参阅：https://github.com/nzitjob/wechat
