@@ -14,8 +14,8 @@
 
 👉加群主LinkedIn，群名片也请尽量用LinkedIn的名字，格式:名字-职位-公司（或求职中等等），不方便标明的，请私信群主。
 
-👉发布职位，注册个人信息，投诉建议
-https://forms.gle/EgsYKHHfDio7me297
+👉职位申请、发布，请参考这里
+https://github.com/nzitjob/nzitjobs.co.nz/blob/master/README.md
 
 👉关注公众号新西兰IT内推圈‘nzitjob‘
 
