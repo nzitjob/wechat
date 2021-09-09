@@ -13,7 +13,7 @@
 * 🈲对他人信仰带有偏见
 * 🉑邀请朋友进群请提供LinkedIn
 
-👉加群主LinkedIn，群名片也请尽量用LinkedIn的名字，格式:名字-职位-公司（或求职中等等），不方便标明的，请私信群主。
+👉加入LinkedIn群组 https://www.linkedin.com/groups/14000245/
 
 👉职位申请、发布，请参考这里
 https://github.com/nzitjob/nzitjobs.co.nz/blob/master/README.md
