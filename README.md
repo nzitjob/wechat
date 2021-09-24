@@ -19,7 +19,7 @@
 👉职位申请、发布，请参考这里
 https://github.com/nzitjob/nzitjobs.co.nz/blob/master/README.md
 
-👉关注公众号新西兰IT内推圈‘nzitjob‘
+👉关注公众号新西兰IT内推圈`nzitjob`
 
 👉加入Meetup: http://meetu.ps/c/48mnP/vgvHZ/a
 
